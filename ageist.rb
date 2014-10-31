@@ -5,6 +5,7 @@ if age < 1
   puts 'baby'
 elsif age < 10
   puts 'child'
+# do you need this >= 10 section?
 elsif age >= 10 && age <= 12
   puts 'tween'
 elsif age >=13 && age <=19
